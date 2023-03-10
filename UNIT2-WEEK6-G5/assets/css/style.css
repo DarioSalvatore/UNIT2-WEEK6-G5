@@ -1,3 +1,5 @@
+
+
 a {
     text-decoration: none;
 }
@@ -6,6 +8,42 @@ ul {
     list-style: none;
 }
 
+/*HOMEPAGE*/
+
 .layout button {
     margin-left: -5px;
 }
+
+.icone {
+    padding-top: 24px;
+}
+
+.icone li {
+    padding-right: 10px;
+}
+
+.ristretto {
+    width: 60%;
+  }
+  .service {
+    color: white;
+    border: 1px solid white;
+  }
+
+/*PROFILE-PAGE*/
+
+
+.name-lenguage input {
+    opacity: 50%;
+    
+}
+
+.maturity {
+    opacity: 80%;
+}
+
+.change {
+    font-size: large;
+    font-weight: bold;
+}
+
